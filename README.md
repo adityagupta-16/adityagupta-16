@@ -17,7 +17,7 @@ Hola, i'm Aditya Gupta, a passionat full stack web developer and a software engi
 . i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/adityagupta-16/adityagupta-16/blob/main/code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:dudeadi156@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
