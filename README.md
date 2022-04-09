@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/spell_me_adi/">
   <img align="left" alt="Aditya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, i'm Aditya Gupta, a passionat full stack web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hola, i'm Aditya Gupta, a passionat full stack web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 . i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
