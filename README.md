@@ -12,7 +12,7 @@
 
 <br />
 
-hi, i'm [Aditya Gupta], a passionat full stack web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Aditya Gupta, a passionat full stack web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 . i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
