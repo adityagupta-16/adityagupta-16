@@ -47,6 +47,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityagupta-16&show_icons=true&theme=gotham" alt="" />
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityagupta-16&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
