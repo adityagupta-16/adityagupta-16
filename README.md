@@ -47,11 +47,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityagupta-16&show_icons=true&theme=gotham" alt="" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagupta-16&show_icons=true&locale=en&layout=compact" alt="adityagupta-16" /></p>
+<p> align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityagupta-16&show_icons=true&theme=gotham" alt="" /></p>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityagupta-16&theme=dark&background=000000)](https://git.io/streak-stats)
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagupta-16&show_icons=true&locale=en&layout=compact" alt="adityagupta-16" /></p>
+ 
 
 
 
