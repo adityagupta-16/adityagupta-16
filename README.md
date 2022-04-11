@@ -24,7 +24,7 @@ I learned a lot from the open-source community and i love how collaboration and 
   
 - 💼 Any freelance work? do reach, [email](mailto:dudeadi156@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help:)
-
+![](https://komarev.com/ghpvc/?username=adityagupta-16)
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -49,6 +49,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityagupta-16&show_icons=true&theme=gotham" alt="" />
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityagupta-16&theme=dark&background=000000)](https://git.io/streak-stats)
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagupta-16&show_icons=true&locale=en&layout=compact" alt="adityagupta-16" /></p>
 
 
 
