@@ -37,10 +37,10 @@
 </a>
 
 <a href="https://twitter.com/adityagupta_016">
-  <img align="centre" alt="Aditya's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="centre" alt="Aditya's Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/adityagupta16/">
-  <img align="left" alt="Aditya's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aditya's LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 <br />
